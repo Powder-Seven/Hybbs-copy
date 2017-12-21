@@ -1,9 +1,9 @@
 <?php
 return array(
     'DEBUG_PAGE'=>true,
-    'REWRITE'=>false,//伪静态规则
+    'REWRITE'=>true,//伪静态规则
 
-    'DOMAIN_NAME' => 'http://127.0.0.1',
+    'DOMAIN_NAME' => 'http://bbs.woshilaoshi.cn',
 
     'url_suffix'=>'.html',
     'url_explode'=>'/',
